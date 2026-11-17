@@ -1,0 +1,14 @@
+[
+  {
+    "tipo": "catalogo",
+    "Tipo": "Cat\u00E1logo",
+    "DiasPrestamo": 5,
+    "RecargoPorDia": 200,
+    "Titulo": "Muchachos",
+    "Director": "Messi",
+    "Genero": "Deporte-Futbol",
+    "Anio": 2022,
+    "Disponible": true,
+    "Id": 1
+  }
+]

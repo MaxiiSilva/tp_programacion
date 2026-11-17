@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SistemaVideoclub",
+    "\\SistemaVideoclub\\bin",
+    "\\SistemaVideoclub\\bin\\Debug",
+    "\\SistemaVideoclub\\bin\\Release",
+    "\\SistemaVideoclub\\Controller",
+    "\\SistemaVideoclub\\Repository",
+    "\\SistemaVideoclub\\View"
+  ],
+  "SelectedNode": "\\SistemaVideoclub\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
