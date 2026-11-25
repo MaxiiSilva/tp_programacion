@@ -1,0 +1,16 @@
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.exe
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.deps.json
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.runtimeconfig.json
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.runtimeconfig.dev.json
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.dll
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\bin\Debug\net10.0\SistemaVideoclub.pdb
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.AssemblyInfoInputs.cache
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.AssemblyInfo.cs
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.csproj.CoreCompileInputs.cache
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.dll
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\refint\SistemaVideoclub.dll
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.pdb
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaVideoclub.genruntimeconfig.cache
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\ref\SistemaVideoclub.dll
+C:\Users\Maxi Silva\Desktop\SistemaVideoclub2_0_act\SistemaVideoclub\obj\Debug\net10.0\SistemaV.DCB1A647.Up2Date
